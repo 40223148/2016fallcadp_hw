@@ -150,6 +150,12 @@
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
 <v t="yen.20161022120729.1"><vh>@button https server</vh></v>
 <v t="yen.20161022151728.1"><vh>產生 .key 與 .crt</vh></v>
+<v t="leo.20170118161246.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170118161246.2"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20170118161246.3"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20170118161246.4"><vh>new:封面投影片內容</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -275,13 +281,16 @@ print("hello")
 </t>
 <t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
 
-### 40223148課程投影片
+### 40223148鄭裕正的投影片
 
 &lt;small&gt;
 Created by [40223148](http://40223148.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[40223148](blog/index.html)
+[40223148的網誌](blog/index.html)
+
+[40223148的vimeo](https://vimeo.com/user40707383)
+
 
 [乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
 
@@ -562,10 +571,12 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161013184628.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161013184753.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161013184813.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -719,6 +730,62 @@ make.start()
 
 &lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
 </t>
+<t tx="leo.20170118161246.1"></t>
+<t tx="leo.20170118161246.2">(uncached) amd.20161004095719.2
+Diff...
+  ## 2016Fall 電腦輔助設計實習課程
+  
+- ### 40223148鄭裕正的投影片
+?             ^^^^
++ ### 40223148課程投影片
+?             ^^
+  
+  &lt;small&gt;
+  Created by [40223148](http://40223148.github.io/kmolab/blog/)
+  &lt;/small&gt;
+  
+- [40223148的網誌](blog/index.html)
+?          ---
++ [40223148](blog/index.html)
+- 
+- [40223148的vimeo](https://vimeo.com/user40707383)
+- 
+  
+  [乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+  
+  [電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
+</t>
+<t tx="leo.20170118161246.3">## 2016Fall 電腦輔助設計實習課程
+
+### 40223148課程投影片
+
+&lt;small&gt;
+Created by [40223148](http://40223148.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[40223148](blog/index.html)
+
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+
+[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
+</t>
+<t tx="leo.20170118161246.4">## 2016Fall 電腦輔助設計實習課程
+
+### 40223148鄭裕正的投影片
+
+&lt;small&gt;
+Created by [40223148](http://40223148.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[40223148的網誌](blog/index.html)
+
+[40223148的vimeo](https://vimeo.com/user40707383)
+
+
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+
+[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
+</t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -740,7 +807,8 @@ make.start()
 </t>
 <t tx="yen.20161016024407.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20161016024407.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -839,7 +907,8 @@ make.start()
 * 上課筆記與心得寫在個人的 2016fallcadp_hw 倉儲 Wiki 中
 * 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
 * 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
-* 每週更新個人與分組的 Github Pages 投影片與網誌</t>
+* 每週更新個人與分組的 Github Pages 投影片與網誌
+</t>
 <t tx="yen.20161016203728.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
