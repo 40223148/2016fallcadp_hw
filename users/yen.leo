@@ -137,8 +137,7 @@
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
-<v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
+<v t="leo.20170118145843.1"><vh>@edit 20170118.md</vh></v>
 </v>
 </v>
 </v>
@@ -275,10 +274,10 @@ print("hello")
 </t>
 <t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
 
-### 虎科大機械設計工程系
+### 40223148課程投影片
 
 &lt;small&gt;
-Created by [40223148](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40223148](http://40223148.github.io/kmolab/blog/)
 &lt;/small&gt;
 
 [40223148](blog/index.html)
