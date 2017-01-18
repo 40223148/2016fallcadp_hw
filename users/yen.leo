@@ -20,7 +20,7 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
-<v t="amd.20161004083800.1" a="E"><vh>html</vh>
+<v t="amd.20161004083800.1"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
@@ -121,7 +121,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>

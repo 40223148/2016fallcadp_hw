@@ -408,7 +408,7 @@ Group.remap={
     349 800d0011 0
     350 800d0012 0
 }
-Group.impFile=Y:\2016fallcadp_hw\block.slvs
+Group.impFile=block.slvs
 Group.impFileRel=block.slvs
 AddGroup
 
@@ -880,7 +880,7 @@ Group.remap={
     349 800d0011 0
     350 800d0012 0
 }
-Group.impFile=Y:\2016fallcadp_hw\block.slvs
+Group.impFile=block.slvs
 Group.impFileRel=block.slvs
 AddGroup
 
@@ -1352,7 +1352,7 @@ Group.remap={
     349 800d0011 0
     350 800d0012 0
 }
-Group.impFile=Y:\2016fallcadp_hw\block.slvs
+Group.impFile=block.slvs
 Group.impFileRel=block.slvs
 AddGroup
 
@@ -1924,7 +1924,7 @@ Group.remap={
     349 800d0011 0
     350 800d0012 0
 }
-Group.impFile=Y:\2016fallcadp_hw\block.slvs
+Group.impFile=block.slvs
 Group.impFileRel=block.slvs
 AddGroup
 
@@ -2496,7 +2496,7 @@ Group.remap={
     349 800d0011 0
     350 800d0012 0
 }
-Group.impFile=Y:\2016fallcadp_hw\block.slvs
+Group.impFile=block.slvs
 Group.impFileRel=block.slvs
 AddGroup
 
@@ -2968,7 +2968,7 @@ Group.remap={
     349 800d0011 0
     350 800d0012 0
 }
-Group.impFile=Y:\2016fallcadp_hw\block.slvs
+Group.impFile=block.slvs
 Group.impFileRel=block.slvs
 AddGroup
 
@@ -3540,7 +3540,7 @@ Group.remap={
     349 800d0011 0
     350 800d0012 0
 }
-Group.impFile=Y:\2016fallcadp_hw\block.slvs
+Group.impFile=block.slvs
 Group.impFileRel=block.slvs
 AddGroup
 
@@ -4112,7 +4112,7 @@ Group.remap={
     349 800d0011 0
     350 800d0012 0
 }
-Group.impFile=Y:\2016fallcadp_hw\block.slvs
+Group.impFile=block.slvs
 Group.impFileRel=block.slvs
 AddGroup
 
